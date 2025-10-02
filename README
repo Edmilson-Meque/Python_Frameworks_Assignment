@@ -1,0 +1,15 @@
+# Python Frameworks Assignment
+
+## Objective
+Demonstrate a small project using a Python framework (Streamlit in this case).
+
+## How to Run
+1. Install dependencies:
+2. Run the Streamlit app:
+
+## Features
+- Upload a CSV file
+- Preview the data
+- Show summary statistics
+- Check for missing values
+- Display unique values for selected columns
